@@ -3,6 +3,4 @@ This is meant to be a template to quickly set up RESTful services using Spring a
 
 ##TODO
  * Stub out Mybatis
- * JSON output
- * XML output
  * CSV output
